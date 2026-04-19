@@ -1,13 +1,16 @@
 Catálogo de Videos 
+
 Integrantes
 
-Franco Bruno (ndazeo@blah.com)
+Franco Bruno (francobrunounicen@gmail.com)
 
 Temática
-Diario digital, noticias de actualidad por distintos editores.
+
+Catálogo de videos del canal BBVA Aprendemos Juntos.
 
 Descripción
-Este sitio web permite mostrar distintas noticias de actualidad, con su titulo, cuerpo y una imágen.
-También almacena la lista de editores del sitio.
-Las noticias tienen cada una un editor responsable.
+
+Este sitio web permite visualizar y organizar las distintas charlas y exposiciones publicadas en el canal de YouTube BBVA Aprendemos Juntos. El objetivo principal es ofrecer un sitio clara e intuitiva donde los usuarios puedan, explorar videos educativos, buscar contenido por temática y acceder fácilmente a información relevante de cada video
+
 Diagrama de entidad relación (DER)
+
