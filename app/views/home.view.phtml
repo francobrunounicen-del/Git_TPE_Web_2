@@ -1,0 +1,27 @@
+<?php
+class HomeView {
+    public function renderHome() {
+        require_once __DIR__ . '/../../app/templates/layout/header.php';
+    ?>
+    <main class="container">
+        <section>
+            <h1>Bienvenidos a BBVA Aprendemos Juntos</h1>
+            <p class>
+                En Aprendemos Juntos damos voz a las mentes más brillantes,
+                que comparten sus historias útiles e inspiradoras y nos ayudan a avanzar
+                hacia un mundo mejor.
+            </p>
+            <p class>
+                Aportamos herramientas, experiencias y conocimientos para acompañar a las
+                personas en sus proyectos hacia una vida mejor.
+            </p>
+            <p>
+                Queremos colaborar, entre todos, en la construcción de una sociedad más
+                justa, inclusiva y respetuosa con el planeta.
+            </p>
+        </section>
+    </main>
+    <?php
+        require_once __DIR__ . '/../../app/templates/layout/footer.php';
+    }
+}

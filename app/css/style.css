@@ -1,0 +1,20 @@
+.obras {
+    display: grid;
+    grid-template-columns:2fr 2fr 2fr;
+    grid-gap: 35px;
+}
+
+.card-img-top {
+    max-height: 300px;
+    object-fit: cover;
+}
+
+.obra-image {
+    max-height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-body img{
+    max-width: 40%;
+}
